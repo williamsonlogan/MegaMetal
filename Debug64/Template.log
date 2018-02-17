@@ -1,0 +1,18 @@
+﻿  update_functions.cpp
+update_functions.cpp(87): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+update_functions.cpp(88): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+update_functions.cpp(90): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+update_functions.cpp(91): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+update_functions.cpp(93): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+update_functions.cpp(94): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+update_functions.cpp(96): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+update_functions.cpp(97): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+update_functions.cpp(102): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+update_functions.cpp(104): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+update_functions.cpp(110): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+update_functions.cpp(112): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+update_functions.cpp(121): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+update_functions.cpp(123): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+update_functions.cpp(129): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+update_functions.cpp(131): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Template.vcxproj -> G:\Steam\steamapps\common\App Game Kit 2\Tier 2\apps\MegaMetal\Final\MegaMetal64.exe
